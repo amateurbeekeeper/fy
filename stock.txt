@@ -1,0 +1,6 @@
+set-stock AB-6 100 CD-3 200 DE-1 200 FG-4 300
+add-stock AB-6 20
+add-stock CD-3 10 DE-1 10
+order ON-123 AB-6 2
+order ON-234 CD-3 1 DE-1 1
+add-stock CD-3 5
